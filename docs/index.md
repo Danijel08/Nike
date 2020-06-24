@@ -1,4 +1,4 @@
-# Сайт для приложения Футбольный клуб
+# Сайт для приложения Nike
 
   ## Меню
 
@@ -12,4 +12,4 @@
  Программа распространяется на условиях лицензии [Apache License
  Version 2.0] (https://apache.org/licenses/LICENSE-2.0.txt).
 
- (c)EvgeniiMuravev 2020г.
+ (c)ChorichDanijel 2020г.
