@@ -1,13 +1,15 @@
-# Сайт для приложения Nike
+# Сайт для приложения Футбольный клуб
 
- ## Меню
+  ## Меню
 
 
-- [Требования] (/sist/).
-- [Интерфейс программы] (/interface/).
-- Скачать.
+ - [Требования](/sist/).
+ - [Интерфейс программы](/interface/).
+ - [Код](/log/).
+ - Скачать.
+ 
+ ## Лицензионный договор
+ Программа распространяется на условиях лицензии [Apache License
+ Version 2.0] (https://apache.org/licenses/LICENSE-2.0.txt).
 
-## Договор 
-Программа рапспространяется на условиях лицензии  [Apache License Version 2.0] (https://apache.org/licenses/LICENSE-2.0.txt)
-
-(C)ChorichDanijel 2020г.
+ (c)EvgeniiMuravev 2020г.
